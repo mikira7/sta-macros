@@ -6,7 +6,7 @@ All copyright assets used with explicit consent from Modiphius Entertainment. Th
 
 The Macro codes are licensed under open code laws.
 
-For the NPC Crew and Ship Task Roller. (Works with 1e and 2e starship sheets)
+For the NPC Crew and Ship Task Roller. (Works with 1e and 2e starship sheets) Latest is v5_2
 
 To add the macro your Foundry game, click on the hotbar to create a new macro, change the name to whatever you want, I suggest "NPC Crew and Ship Task", change the type to script and save.
 For the macro to work you must select the ship token that you wish to roll from.
