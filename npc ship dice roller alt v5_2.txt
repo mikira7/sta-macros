@@ -19,7 +19,7 @@ let dialogContent = `
 
   <div class="form-group">
     <label>Is the Ship Assisting?</label>
-    <label><input type="checkbox" id="shipAssist" name="shipAssist" checked> Ship Assist</label>
+    <label><input type="checkbox" id="shipAssist" name="shipAssist" checked></label>
   </div>
 
   <div class="form-group">
